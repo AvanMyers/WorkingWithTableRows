@@ -6,3 +6,11 @@ D:\C# Project\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTab
 D:\C# Project\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.csproj.CoreCompileInputs.cache
 D:\C# Project\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.exe
 D:\C# Project\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.pdb
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.csproj.AssemblyReference.cache
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.csproj.SuggestedBindingRedirects.cache
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.csproj.CoreCompileInputs.cache
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.exe
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\obj\Debug\WorkingWithTableRows.pdb
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\bin\Debug\WorkingWithTableRows.exe.config
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\bin\Debug\WorkingWithTableRows.exe
+D:\GItHub\WorkingWithTableRows\WorkingWithTableRows\WorkingWithTableRows\bin\Debug\WorkingWithTableRows.pdb
